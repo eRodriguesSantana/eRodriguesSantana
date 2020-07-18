@@ -1,7 +1,13 @@
-### Estudante Universitário em Engenharia de Software<br>
-### Linguagens: PHP e Java<br>
-### Frameworks: Laravel e SpringBoot(estudando)<br>
-### Banco de Dados: MySQL e PostgreSQL<br>
+### Community Expert at Digital Innovation One<br>
+### Graduating in Software Engineering<br>
+### Backend<br>
+### Java<br>
+### PHP<br>
+### CSS<br>
+### HTML<br>
+### Javascript<br>
+### SQL<br>
+### Fullstack Java student at Digital House - Santander Coders Java 2020
 
 <!--
 **eRodriguesSantana/eRodriguesSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
