@@ -1,4 +1,7 @@
-### Hi there 👋
+### Estudante Universitário em Engenharia de Software<br>
+### Linguagens: PHP e Java<br>
+### Frameworks: Laravel e SpringBoot(estudando)<br>
+### Banco de Dados: MySQL e PostgreSQL<br>
 
 <!--
 **eRodriguesSantana/eRodriguesSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
