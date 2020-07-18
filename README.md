@@ -11,19 +11,19 @@ community members, with access to a global network of mentors for
 boost my development in: technical leadership, architecture
 scalable, agile development, protagonism, collaboration and
 socio-economic transformation through technology.
-### 🌱 Graduating in Software Engineering<br>
-### 🔭 Backend<br>
-### 🌱 Java<br>
+## 🌱 Graduating in Software Engineering<br>
+## 🔭 Backend<br>
+## 🌱 Java<br>
 I have experience in Java 6 having worked in the maintenance and construction of new features in the internal system of the technical school Top Center Brasil LTDA.
 I am currently studying on my own the Spring framework ecosystem.
-### 🔭 PHP<br>
-### 🔭 CSS<br>
-### 🔭 Bootstrap<br>
-### 🔭 HTML<br>
-### 🔭 Javascript<br>
-### 🔭 SQL<br>
-### 🌱 Fullstack Java student at Digital House - Santander Coders Java 2020
-### 🌱 Fullstack Fundamentals student at IGTI
+## 🔭 PHP<br>
+## 🔭 CSS<br>
+## 🔭 Bootstrap<br>
+## 🔭 HTML<br>
+## 🔭 Javascript<br>
+## 🔭 SQL<br>
+## 🌱 Fullstack Java student at Digital House - Santander Coders Java 2020
+## 🌱 Fullstack Fundamentals student at IGTI
 
 <!--
 **eRodriguesSantana/eRodriguesSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
