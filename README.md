@@ -17,7 +17,6 @@ socio-economic transformation through technology.
 I have experience in Java 6 having worked in the maintenance and construction of new features in the internal system of the technical school Top Center Brasil LTDA.
 I am currently studying on my own the Spring framework ecosystem.
 ## 🔭 PHP<br>
-## 🔭 Java<br>
 ## 🔭 CSS<br>
 ## 🔭 Bootstrap<br>
 ## 🔭 HTML<br>
