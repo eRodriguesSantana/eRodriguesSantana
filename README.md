@@ -17,12 +17,12 @@ socio-economic transformation through technology.
 I have experience in Java 6 having worked in the maintenance and construction of new features in the internal system of the technical school Top Center Brasil LTDA.
 I am currently studying on my own the Spring framework ecosystem.
 ## 🔭 PHP<br>
+## 🔭 Java<br>
 ## 🔭 CSS<br>
 ## 🔭 Bootstrap<br>
 ## 🔭 HTML<br>
 ## 🔭 Javascript<br>
 ## 🔭 SQL<br>
-## 🌱 Fullstack Java student at Digital House - Santander Coders Java 2020
 
 <!--
 **eRodriguesSantana/eRodriguesSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
